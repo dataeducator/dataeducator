@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **tenicka.norwood@gmail.com**
 
-- 📄 Learn about about my experiences [www.linkedin.com/in/tenicka-norwood](www.linkedin.com/in/tenicka-norwood)
+- 📄 Learn about about my experiences [LinkedIn](https://www.linkedin.com/in/tenicka-norwood)
 
 - ⚡ Fun fact **I have written over 80 physics lessons for the NEA and Better Lesson : https://teaching.betterlesson.com/browse/master_teacher/473416/tenicka-norwood?from=mtp_lesson**
 
