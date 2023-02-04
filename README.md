@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/dataeducator/](https://github.com/dataeducator/)
 
-- 📝 I regularly write articles on [https://medium.com/@tenicka.norwood](https://medium.com/@tenicka.norwood)
+- 📝 I regularly write articles on [Medium](https://medium.com/@tenicka.norwood)
 
 - 💬 Ask me about **Python, SQL, Excel**
 
