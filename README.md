@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Tenicka Norwood</h1>
-<h3 align="center">A budding data scientist, mom who gardens, maker who tinkers is a lifelong learner.</h3>
+<h3 align="center">A learning and development lead, mom who gardens, maker who tinkers and is a lifelong learner.</h3>
 
 - 🔭 I’m currently working on [An Analysis of Graduation Rates in New York City High Schools](https://github.com/dataeducator/consortium_schools)
 
