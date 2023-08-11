@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Tenicka Norwood</h1>
-<h3 align="center">A learning and development lead, mom who gardens, maker who tinkers and a lifelong learner.</h3>
+<h3 align="center">A learning and development lead, a mom who gardens, a maker who tinkers, and a lifelong learner.</h3>
 
-- 🔭 I’m currently working on [An Analysis of Graduation Rates in New York City High Schools](https://github.com/dataeducator/consortium_schools)
+- 🔭 I’m currently working on [A Ternary Classification Project for Higher Education Students](https://github.com/dataeducator/student_academic_success)
 
 - 👨‍💻 All of my projects are available at [https://github.com/dataeducator/](https://github.com/dataeducator/)
 
@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **tenicka.norwood@gmail.com**
 
-- 📄 Learn about about my experiences [LinkedIn](https://www.linkedin.com/in/tenicka-norwood)
+- 📄 Learn about my experiences [LinkedIn](https://www.linkedin.com/in/tenicka-norwood)
 
-- ⚡ Fun fact **I have written over 80 physics lessons for the NEA and Better Lesson : https://teaching.betterlesson.com/browse/master_teacher/473416/tenicka-norwood?from=mtp_lesson**
+- ⚡ Fun fact **I have written over 80 physics lessons for the NEA and Better Lesson: https://teaching.betterlesson.com/browse/master_teacher/473416/tenicka-norwood?from=mtp_lesson**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
