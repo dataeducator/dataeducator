@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Tenicka Norwood</h1>
 <h3 align="center">A learning and development lead, a mom who gardens, a maker who tinkers, and a lifelong learner.</h3>
 
-- 🔭 I’m currently working on [An Image Classification Project using CNNs for Pneumonia identification](https://github.com/dataeducator/image_classification_with_deep_learning))
+- 🔭 I’m currently working on [An Image Classification Project using CNNs for Brain Tumor Detection](https://github.com/dataeducator/capstone))
 
 - 👨‍💻 All of my projects are available at [https://github.com/dataeducator/](https://github.com/dataeducator/)
 
