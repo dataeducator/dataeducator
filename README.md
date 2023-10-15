@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Tenicka Norwood</h1>
 <h3 align="center">A learning and development lead, a mom who gardens, a maker who tinkers, and a lifelong learner.</h3>
 
-- 🔭 I’m currently working on [A Project for Heart Disease Prediction](https://github.com/dataeducator/capstone)
+- 🔭 I’m currently working on [A SQL + PowerBI Project](https://github.com/dataeducator/sales_dashboard)
 
 - 👨‍💻 All of my projects are available at [https://github.com/dataeducator/](https://github.com/dataeducator/)
 
