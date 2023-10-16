@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ![Tenicka Norwood LinkedIn Banner (4)](https://github.com/dataeducator/dataeducator/assets/107881738/8f5721fe-c55a-43c0-9484-a1df4035c633)
 
-<!----<h1 align="center"> Tenicka Norwood</h1>
---<h3 align="center">A learning and development lead, a mom who gardens, a maker who tinkers, and a lifelong learner.</h3 --!>
+<h1 align="center"> About Me</h1> 
+<h3 align="center">A learning and development lead, a mom who gardens, a maker who tinkers, and a lifelong learner.
 
 - 🔭 I’m currently working on [A SQL + PowerBI Project](https://github.com/dataeducator/sales_dashboard)
 
