@@ -17,27 +17,26 @@ Here are some ideas to get you started:
 ![Tenicka Norwood LinkedIn Banner (4)](https://github.com/dataeducator/dataeducator/assets/107881738/8f5721fe-c55a-43c0-9484-a1df4035c633)
 
 <h1 align="center"> About Me</h1> 
-<h3 align="center">A learning and development lead, a mom who gardens, a maker who tinkers, and a lifelong learner.
+<!--<h3 align="center">A learning and development lead, a mom who gardens, a maker who tinkers, and a lifelong learner.-->
 
-- 🔭 I’m currently working on [A SQL + PowerBI Project](https://github.com/dataeducator/sales_dashboard)
+🔭 I’m currently working on [A SQL + PowerBI Project](https://github.com/dataeducator/sales_dashboard)
 
-- 👨‍💻 All of my projects are available at [https://github.com/dataeducator/](https://github.com/dataeducator/)
+👨‍💻 All of my projects are available at [https://github.com/dataeducator/](https://github.com/dataeducator/)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@tenicka.norwood)
+📝 I regularly write articles on [Medium](https://medium.com/@tenicka.norwood)
 
-- 💬 Ask me about **Python, SQL, Excel**
-
-- 📫 How to reach me **tenicka.norwood@gmail.com**
-
-- 📄 Learn about my experiences [LinkedIn](https://www.linkedin.com/in/tenicka-norwood)
+📄 Learn about my experiences [LinkedIn](https://www.linkedin.com/in/tenicka-norwood)
 
 - ⚡ Fun fact **I have written over 80 physics lessons for the NEA and Better Lesson: https://teaching.betterlesson.com/browse/master_teacher/473416/tenicka-norwood?from=mtp_lesson**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social Media</h3>
 <p align="left">
 <a href="https://twitter.com/tenickanorwood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tenickanorwood" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tenicka-norwood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tenicka-norwood" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Contact</h3>
+📫 How to reach me **tenicka.norwood@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
