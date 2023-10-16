@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on [A Sales and Product Management Project](https://github.com/dataeducator/sales_dashboard)
 
-👨‍💻 All of my projects are available at [https://github.com/dataeducator/](https://github.com/dataeducator/)
+👨‍💻 All of my projects are available on [Github](https://github.com/dataeducator/)
 
 📝 I regularly write articles on [Medium](https://medium.com/@tenicka.norwood)
 
