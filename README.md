@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center"> About Me</h1> 
 <!--<h3 align="center">A learning and development lead, a mom who gardens, a maker who tinkers, and a lifelong learner.-->
 
-🔭 I’m currently working on [A SQL + PowerBI Project](https://github.com/dataeducator/sales_dashboard)
+🔭 I’m currently working on [A Sales and Product Management Project](https://github.com/dataeducator/sales_dashboard)
 
 👨‍💻 All of my projects are available at [https://github.com/dataeducator/](https://github.com/dataeducator/)
 
