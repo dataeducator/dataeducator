@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 📄 Learn about my experiences [LinkedIn](https://www.linkedin.com/in/tenicka-norwood)
 
-⚡ Fun fact **I have written over 80 physics lessons for the NEA and Better Lesson: https://teaching.betterlesson.com/browse/master_teacher/473416/tenicka-norwood?from=mtp_lesson**
+⚡ Fun fact **I have written over 80 physics lessons for the NEA and Better Lesson: [Lessons](https://teaching.betterlesson.com/browse/master_teacher/473416/tenicka-norwood?from=mtp_lesson)**
 
 <h2 align="center">Social Media</h3>
 <p align="left">
