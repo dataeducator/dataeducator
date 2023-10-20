@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Tenicka Norwood LinkedIn Banner (4)](https://github.com/dataeducator/dataeducator/assets/107881738/8f5721fe-c55a-43c0-9484-a1df4035c633)
+
+![Tenicka Norwood LinkedIn Banner](https://github.com/dataeducator/dataeducator/assets/107881738/0dd0ed6e-000d-4657-bf79-dca9196e372a)
 
 <h1 align="center"> About Me</h1> 
 <!--<h3 align="center">A learning and development lead, a mom who gardens, a maker who tinkers, and a lifelong learner.-->
