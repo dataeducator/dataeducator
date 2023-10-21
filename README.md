@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Tenicka Norwood LinkedIn Banner](https://github.com/dataeducator/dataeducator/assets/107881738/0dd0ed6e-000d-4657-bf79-dca9196e372a)
+
+![Tenicka Norwood LinkedIn Banner](https://github.com/dataeducator/dataeducator/assets/107881738/013ce677-c368-4380-a02b-aa7b9c65a181)
 
 <h1 align="center"> About Me</h1> 
 <!--<h3 align="center">A learning and development lead, a mom who gardens, a maker who tinkers, and a lifelong learner.-->
 
+![Tenicka Norwood LinkedIn Banner](https://github.com/dataeducator/dataeducator/assets/107881738/f23c086b-e1a9-48ee-801c-a2ba0f4abf8e)
 🔭 I’m currently working on [A Sales and Product Management Project](https://github.com/dataeducator/sales_dashboard)
 
 👨‍💻 All of my projects are available on [Github](https://github.com/dataeducator/)
