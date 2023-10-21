@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Tenicka Norwood LinkedIn Banner](https://github.com/dataeducator/dataeducator/assets/107881738/013ce677-c368-4380-a02b-aa7b9c65a181)
+
 
 <h1 align="center"> About Me</h1> 
 <!--<h3 align="center">A learning and development lead, a mom who gardens, a maker who tinkers, and a lifelong learner.-->
