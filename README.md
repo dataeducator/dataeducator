@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 
 
 
+
 <h1 align="center"> About Me</h1> 
 <!--<h3 align="center">A learning and development lead, a mom who gardens, a maker who tinkers, and a lifelong learner.-->
 
-![Tenicka Norwood LinkedIn Banner B](https://github.com/dataeducator/dataeducator/assets/107881738/97d754d3-3763-4b03-aed1-42427376be76)
+![Tenicka Norwood LinkedIn Banner](https://github.com/dataeducator/dataeducator/assets/107881738/6db3d3ab-d21e-49b2-8291-f891e60169dc)
 🔭 I’m currently working on [A Sales and Product Management Project](https://github.com/dataeducator/sales_dashboard)
 
 👨‍💻 All of my projects are available on [Github](https://github.com/dataeducator/)
