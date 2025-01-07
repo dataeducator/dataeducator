@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!--<h3 align="center">A learning and development lead, a mom who gardens, a maker who tinkers, and a lifelong learner.-->
 ![Tenicka Norwood LinkedIn Banner (1)](https://github.com/user-attachments/assets/c4ebcd5e-4472-4253-9f2b-81c26e485826)
 
-![Tenicka Norwood LinkedIn Banner](https://github.com/dataeducator/dataeducator/assets/107881738/6db3d3ab-d21e-49b2-8291-f891e60169dc)
+
 🔭 I’m currently working on [A Women's Rights Project](https://github.com/dataeducator/PedestrianPal)
 
 👨‍💻 All of my projects are available on [Github](https://github.com/dataeducator/)
