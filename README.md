@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 
 
 
+![Tenicka Norwood LinkedIn Banner](https://github.com/user-attachments/assets/944a2a65-526e-48fa-8715-8cac6bf755b6)
 
 <h1 align="center"> About Me</h1> 
 <!--<h3 align="center">A learning and development lead, a mom who gardens, a maker who tinkers, and a lifelong learner.-->
-![Tenicka Norwood LinkedIn Banner (1)](https://github.com/user-attachments/assets/c4ebcd5e-4472-4253-9f2b-81c26e485826)
+
 
 
 🔭 I’m currently working on [A Women's Rights Project](https://github.com/dataeducator/PedestrianPal)
