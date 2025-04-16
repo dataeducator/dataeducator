@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 
-🔭 I’m currently working on [A Women's Rights Project](https://github.com/dataeducator/PedestrianPal)
+🔭 I’m currently working on ([A LMS Project](https://github.com/dataeducator/EduTrack))
 
 👨‍💻 All of my projects are available on [Github](https://github.com/dataeducator/)
 
