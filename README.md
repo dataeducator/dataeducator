@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 
-🔭 I’m currently working on ([A Cancer Project](https://github.com/dataeducator/cancer))
+🔭 I’m currently working on ([Cancer Research](https://github.com/dataeducator/cancer))
 
 👨‍💻 All of my projects are available on [Github](https://github.com/dataeducator/)
 
