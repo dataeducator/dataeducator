@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 
-🔭 I’m currently working on ([Federated Learning])
+🔭 I’m currently working on [Federated Learning](https://github.com/dataeducator/OmniFed)
 
 👨‍💻 All of my projects are available on [Github](https://github.com/dataeducator/)
 
